@@ -1,2 +1,3 @@
 # OpensourceVeganism
-A digital recipe book
+## A digital recipe book
+
