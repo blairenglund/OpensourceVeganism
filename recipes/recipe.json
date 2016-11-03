@@ -1,0 +1,18 @@
+{
+	"name":"",             // name, string
+	"summary":"",          // writeup, string
+	"course":"",           // course, string (from predefined list of courses)
+	"ingredients":[        // ingredients, array of objects
+		{"name":"",        // ingredient name, string
+		"amount":"",       // amount of ingredient, string (numeral and unit)
+		"tips":[] }        // ingredient-related tips, array of strings (can be empty)
+	],
+	"preparation":[        // recipe preparation, array of strings
+		""                 // recipe step, string
+	],
+	"time":0,              // prep time, int representing time
+	"nutrition":{          // nutrition facts, object
+        "calories":0,      // calories, integer
+        "":0               // more nutritional info, numbers
+    } 
+}
